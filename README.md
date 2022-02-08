@@ -6,7 +6,7 @@ This project is written in R language to analyze assembly cost (AC) and percent 
 
 ## Source code
 
-xfun::embed_file("source/Project stats queries in R.pdf")
+All source code files are in the source folder
 
 ## Getting Started
 
